@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/PWAReactTest/static/css/main.073c9b0a.css",
-    "main.js": "/PWAReactTest/static/js/main.d04c0a69.js",
+    "main.css": "/PWAReactTest/static/css/main.a28c3b4d.css",
+    "main.js": "/PWAReactTest/static/js/main.ef7f4fb4.js",
     "static/js/787.090bebc6.chunk.js": "/PWAReactTest/static/js/787.090bebc6.chunk.js",
     "service-worker.js": "/PWAReactTest/service-worker.js",
-    "static/media/logo.svg": "/PWAReactTest/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/PWAReactTest/index.html",
-    "main.073c9b0a.css.map": "/PWAReactTest/static/css/main.073c9b0a.css.map",
-    "main.d04c0a69.js.map": "/PWAReactTest/static/js/main.d04c0a69.js.map",
+    "main.a28c3b4d.css.map": "/PWAReactTest/static/css/main.a28c3b4d.css.map",
+    "main.ef7f4fb4.js.map": "/PWAReactTest/static/js/main.ef7f4fb4.js.map",
     "787.090bebc6.chunk.js.map": "/PWAReactTest/static/js/787.090bebc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d04c0a69.js"
+    "static/css/main.a28c3b4d.css",
+    "static/js/main.ef7f4fb4.js"
   ]
 }
